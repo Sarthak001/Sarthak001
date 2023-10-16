@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React , Python , Linux , Golang**
 
-- 📫 How to reach me **sarthaktiwari00001@gmail.com**
+- 📫 How to reach me **sarthak.tiwari1603@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
